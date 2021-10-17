@@ -3,5 +3,5 @@
 > Aplication is a simple program with UI (User Interface) - it allows to increase, decrease and zerout the entered number.
 
 
-> To see the layout please check FirstApp.png file attached.
+> To see the layout please check FirstApp.png file attached -> https://github.com/milena1627/FirstAppMilenaGasiorek/blob/master/FirstApp.PNG
 
